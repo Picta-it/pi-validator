@@ -1,0 +1,24 @@
+{
+  "name": "pi-validator",
+  "version": "0.1.0",
+  "description": "Abstraction of a validator encapsulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Picta-it/pi-validator.git"
+  },
+  "keywords": [
+    "validator",
+    "data",
+    "schema"
+  ],
+  "author": "Juaniyyoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Picta-it/pi-validator/issues"
+  },
+  "homepage": "https://github.com/Picta-it/pi-validator#readme"
+}
