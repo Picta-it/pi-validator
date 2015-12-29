@@ -1,6 +1,6 @@
 {
   "name": "pi-validator",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Abstraction of a validator encapsulation",
   "main": "index.js",
   "scripts": {
