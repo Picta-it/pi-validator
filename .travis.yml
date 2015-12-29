@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "4.1"
+
+# Run `gulp coveralls` to send data to Coveralls
+after_script:
+  - ./node_modules/.bin/gulp coveralls
