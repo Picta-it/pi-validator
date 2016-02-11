@@ -5,11 +5,11 @@
 
 # PiValidator
 
-Abstraction of a validator encapsulation. Validator are used to validate models, datamapper entries or any Javascript object.
+Abstraction for validators inheritance. Validators are used to validate any data format. This interface allows common use for validation.
 
-The basic implementation of it is [pi-validator-tv4](https://www.npmjs.com/package/pi-validator-tv4) that validates an Object over a JSON schema.
+The basic implementation of it is [pi-validator-tv4](https://www.npmjs.com/package/pi-validator-tv4) **(on progress)** that validates an Object over a JSON schema.
 
-But validator can be as complex as you wish. You can call remote endpoints to validate your entries. The only current restrictions is that the validation must be synchronous.
+But validator can be as complex as you wish. You can call remote endpoints to validate your entries. The only current restrictions is that the validation must be synchronous for now.
 
 ## Install
 
