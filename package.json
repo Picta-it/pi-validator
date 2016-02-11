@@ -1,8 +1,8 @@
 {
   "name": "pi-validator",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Abstraction of a validator encapsulation",
-  "main": "index.js",
+  "main": "app/validator.js",
   "scripts": {
     "test": "gulp test"
   },
